@@ -1,0 +1,3 @@
+Trata de mejorar la eficiencia del algoritmo hecho en el primer ejercicio. 
+
+Pista: Usa la raíz cuadrada.

@@ -1,0 +1,9 @@
+Ejercicio 1
+
+Objetivo: Escribe un algoritmo que compruebe si un numero es primo o no y calcula su complejidad.
+
+
+**¿Qué es un numero primo?**
+
+Un **número primo** es un número natural mayor que 1 que tiene únicamente dos divisores
+positivos distintos: él mismo y el 1.
